@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1545878363 source:d:\projects\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"variables.h"
+	"main.h"
+	"mainfunction.c"
+	"helping.h"
+	"helping.c"
+
+1545866362 d:\projects\final project\main.h
+
+1545877578 d:\projects\final project\helping.h
+
+1545876304 d:\projects\final project\mainfunction.c
+
+1545878589 d:\projects\final project\helping.c
+
+1545866340 d:\projects\final project\structs.h
+
+1545896616 d:\projects\final project\variables.h
+
+1545878363 source:d:\c projects\final project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"structs.h"
+	"variables.h"
+	"main.h"
+	"mainfunction.c"
+	"helping.h"
+	"helping.c"
+
+1545866340 d:\c projects\final project\final project\structs.h
+
+1545896616 d:\c projects\final project\final project\variables.h
+
+1545866362 d:\c projects\final project\final project\main.h
+
+1545876304 d:\c projects\final project\final project\mainfunction.c
+
+1545877578 d:\c projects\final project\final project\helping.h
+
+1545878589 d:\c projects\final project\final project\helping.c
+
